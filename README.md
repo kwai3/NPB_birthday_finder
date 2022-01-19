@@ -1,0 +1,2 @@
+# NPB_birthday_finder
+Javaの自主制作で作成したプロ野球選手の誕生日を探すプログラム
